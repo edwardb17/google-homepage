@@ -1,0 +1,48 @@
+.options-topright{
+	position:absolute;
+	right:5%;
+}
+.center-img{
+	margin: 0;
+	position: absolute;
+	top:40%;
+	left:50%;
+	margin-left:-150px;
+	margin-top:-75px;
+}
+.searchbar{
+	margin:0;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	margin-left:-250px;
+}
+.buttons{
+	margin:0;
+	position: absolute;
+	top:55%;
+	left:50%;
+	margin-left: -120px;
+}
+.french{
+	margin:0;
+	position: absolute;
+	top:65%;
+	left:52%;
+	margin-left: -120px;
+}
+.fbar{
+	height: 75%;
+}
+#fsl{
+	margin:0;
+	position: absolute;
+	top:93%;
+	left: 2%;
+}
+#fsr{
+	margin:0;
+	position: absolute;
+	top:93%;
+	right: 2%;
+}
